@@ -1,0 +1,21 @@
+//WorkSheet 11
+
+//Q1
+// O(n)
+
+//Q2
+// C, F
+
+//Q3
+// 2/3
+
+//Q4
+//a : Elec R' Us, R&D, Sales, Domestic, International, Canada, S.America, 
+//    OverSeas, Africa, Europe, Asia, Australia, Purchasing, Manufacturing, TV, CD, Tuner
+      
+//b : R&D, Domestic, Canada, S.America, Africa, Europe, Asia, Australia, Overseas, International
+//    Sales, Purchasing, TV, CD, Tuner, Manufacturing, Elec R' Us
+
+//c : 3
+//d : 4
+// Binary Tree Class
